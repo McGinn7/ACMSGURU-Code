@@ -15,3 +15,8 @@ typedef pair<int, int> pii;
 #define dd(x) cout << #x << "=" << x << ", "
 #define de(x) cout << #x << "=" << x << endl
 //-------
+
+int main() {
+
+	return 0;
+}
